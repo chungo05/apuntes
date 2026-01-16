@@ -13,4 +13,6 @@ comando basicos de git.
 * Análisis y diseño de software
 
 **SALUDOS**
+<section>
 ![imagen random de creación](https://github.com/chungo05/apuntes/blob/main/images/images.jpeg)
+</section>
