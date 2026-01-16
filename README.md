@@ -13,4 +13,4 @@ comando basicos de git.
 * Análisis y diseño de software
 
 **SALUDOS**
-![imagen random de creación](https://imgur.com/a/7gbwcC4)
+![imagen random de creación](./apuntes/images/325167_MassimoChung_paginasobremi.png)
