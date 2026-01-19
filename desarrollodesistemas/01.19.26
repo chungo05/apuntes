@@ -1,0 +1,7 @@
+# Elementos
+
+input: Campos de texto, contraseñas, botones, etc.
+label: Etiqueta asociada a un campo.
+button: Botones interactivos.
+
+<input type="sumbit" id="enviar" name="enviar" value="enviar" />
