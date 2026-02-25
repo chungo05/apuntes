@@ -1,0 +1,47 @@
+* Bruise
+* Scrape
+* Sprain
+* Cut
+* Burn
+* Break
+* Fracture
+
+Bruise,A dark mark on the skin caused by a blow or impact that 
+ruptures blood vessels but doesn't break the skin.
+Moretón / Cardenal,
+I have a large purple bruise on my thigh from where I bumped into the table
+
+Scrape,"A minor injury where the top layer of skin is rubbed or torn off, 
+usually by sliding against a rough surface.
+",Raspadura / Raspón
+The runner fell on the gravel and got a nasty scrape on his elbow.
+
+
+Sprain,An injury to a joint (like an ankle or wrist) caused by a sudden
+twist that stretches or tears ligaments.
+,Torcedura / Esguince,
+She couldn't play in the game because she suffered a severe ankle sprain during practice."""
+
+
+Cut,"A break or opening in the skin or flesh, typically caused by a sharp
+object like a knife or glass."
+,Corte / Herida,
+Be careful with that sharp knife; you don't want to get a cut on
+your finger."""
+
+Burn,"Damage to the skin or other tissues caused by heat, chemicals, 
+electricity, or radiation.",
+Quemadura,
+forgot to wear oven mitts and got a small burn on my hand from the tray."""
+
+
+Break,A general term for a bone that has been cracked or separated into
+two or more pieces.
+,Rotura / Fractura,
+"""He had to wear a cast for six weeks after he managed to break his 
+leg while skiing."""
+Fracture,The medical term for a break in a bone; it can range from a
+thin crack to a complete snap.
+,Fractura,"
+""The X-ray confirmed a hairline fracture in her wrist, 
+even though it didn't look broken."""
